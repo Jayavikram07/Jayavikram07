@@ -21,10 +21,6 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 </p>
 
-
-
-
-
 ### 🛠️ Tools
 <p>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -33,9 +29,6 @@
 
 </p>
 
-### 📊 GitHub Stats
-
-[![Jayavikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthickRamAlagar&bg_color=000000&color=4c9e86&line=8d4c9e&point=40413e&area=true&hide_border=true)](https://github.com/KarthickRamAlagar)
 
 ## 👨‍🏫 Mentors
 - [JSMastery](https://www.jsmastery.pro/)  
@@ -44,5 +37,6 @@
 <br/>
 
 ✨ Stay tuned — more projects & experiments coming soon!
+
 
 
