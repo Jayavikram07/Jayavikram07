@@ -16,7 +16,7 @@
 
 ### 💻 I code in
 <p>
-  <img src="https://img.icons8.com/color/48/000000/java.png"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 </p>
@@ -44,4 +44,5 @@
 <br/>
 
 ✨ Stay tuned — more projects & experiments coming soon!
+
 
