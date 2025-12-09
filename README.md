@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/KarthickRamAlagar/KarthiNexus/main/public/KR.png" alt="KR Logo" width="55"/> Hi there 👋 I'm Jayavikram M V  — Manual and Automation Test Engineer
+##  Hi there 👋 I'm Jayavikram M V  — Manual and Automation Test Engineer
 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -37,6 +37,7 @@
 <br/>
 
 ✨ Stay tuned — more projects & experiments coming soon!
+
 
 
 
